@@ -2,7 +2,7 @@
 //  Server.swift
 //  AppTestMovies
 //
-//  Created by JESSICA OLIVERA on 07/11/24.
+//  Created by Mario Vargas on 09/11/24.
 //
 
 import Foundation
